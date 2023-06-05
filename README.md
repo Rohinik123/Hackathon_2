@@ -1,32 +1,25 @@
-# ResumeGen
-ReactJS Basic Resume Generator which will generate customized Resume in few minutes on your requirements.
-Live resume editor.
+Resume-Craftr
 
-[Visit Now](https://resumegenx.netlify.app/) 🚀
+Resume-Craftr is a powerful and user-friendly project designed to simplify the process of creating and formatting professional resumes. With its intuitive interface and customizable templates, Resume-Craftr empowers individuals to craft compelling resumes that stand out from the competition.
 
-## 🖥️ Tech Stack
+Features
 
-![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![chakraui](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;
+1. Template Library
+   Resume-Craftr provides a wide selection of modern and visually appealing resume templates.
 
-Extras: React-To-Print
+2. Easy Editing
+   Editing your resume has never been easier with Resume-Craftr. The project offers a user-friendly editor that allows you to effortlessly update and customize your resume.
 
-**Deployed On:**
+3. Export to PDF and Word
+   Once you're satisfied with your resume, Resume-Craftr enables you to export it to PDF or Word format with just a few clicks.
 
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+To get started with Resume-Craftr, follow these simple steps:
 
-## Sneak  Peek of Home Page 🙈 :
-![screencapture-resumegenx-netlify-app-2022-01-18-16_24_49](https://user-images.githubusercontent.com/64949957/159115311-42275489-8fbe-4d80-9f7c-4d308d9287ce.png)
-![smartmockups_kyk0u3hp](https://user-images.githubusercontent.com/64949957/159115313-ae8bf72c-2a79-425d-8520-32b6ba3e0fcf.jpg)
-
-
-<h2>📬 Contact</h2>
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
-
-© 2022 Jigar Sable
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+1.  Clone the project repository from GitHub.
+2.  Install the necessary dependencies using _`npm install`_.
+3.  Launch the development server using _`npm start`_.
+4.  Open your browser and navigate to the provided local development URL.
+5.  Start crafting your professional resume using the intuitive interface.
+6.  Customize the sections, add your content, and adjust the styling to your liking.
+7.  Preview your resume, ensure its responsiveness, and make any necessary adjustments.
+8.  Finally, generate a print-ready version of your resume using React-to-Print.
